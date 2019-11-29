@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/boom.png</file>
+        <file>image/difficult.png</file>
+        <file>image/easy.png</file>
+        <file>image/flag.png</file>
+        <file>image/icon.png</file>
+        <file>image/mine.png</file>
+        <file>image/normal.png</file>
+        <file>image/qt.png</file>
+        <file>image/about.png</file>
+        <file>image/rank.png</file>
+    </qresource>
+</RCC>
